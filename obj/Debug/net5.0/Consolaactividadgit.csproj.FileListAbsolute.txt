@@ -1,0 +1,16 @@
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\bin\Debug\net5.0\Consolaactividadgit.exe
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\bin\Debug\net5.0\Consolaactividadgit.deps.json
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\bin\Debug\net5.0\Consolaactividadgit.runtimeconfig.json
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\bin\Debug\net5.0\Consolaactividadgit.runtimeconfig.dev.json
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\bin\Debug\net5.0\Consolaactividadgit.dll
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\bin\Debug\net5.0\ref\Consolaactividadgit.dll
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\bin\Debug\net5.0\Consolaactividadgit.pdb
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\Consolaactividadgit.csproj.AssemblyReference.cache
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\Consolaactividadgit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\Consolaactividadgit.AssemblyInfoInputs.cache
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\Consolaactividadgit.AssemblyInfo.cs
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\Consolaactividadgit.csproj.CoreCompileInputs.cache
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\Consolaactividadgit.dll
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\ref\Consolaactividadgit.dll
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\Consolaactividadgit.pdb
+C:\Users\juanf\OneDrive\Escritorio\git\Consolaactividadgit\obj\Debug\net5.0\Consolaactividadgit.genruntimeconfig.cache
